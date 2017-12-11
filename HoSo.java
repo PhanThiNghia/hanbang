@@ -1,4 +1,6 @@
  class HoSo {
+ 	String Ten;
+ 	
  	
     
 }
